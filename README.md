@@ -111,3 +111,9 @@ bin/rails server -b 0.0.0.0
 **Professor:** Quim Motger De La Encarnacion
 **Assignatura:** Aplicacions i Serveis Web — Grau en Enginyeria Informàtica (UPC)  
 **Convocatòria:** Quadrimestre de Primavera, curs 2025/26
+
+---
+
+<div align="center">
+  <sub>README creat per @semabo29 (https://github.com/semabo29).</sub>
+</div>
