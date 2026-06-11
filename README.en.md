@@ -175,3 +175,9 @@ http://localhost:3000
 This repository and its content are publicly accessible solely for portfolio, educational, and academic evaluation purposes.
 
 No license (implicit or explicit) is granted to copy, modify, distribute, sublicense, or use this code, whether for commercial or non-commercial purposes, without prior written permission from the authors.
+
+---
+
+<div align="center">
+  <sub>README created by @semabo29 (https://github.com/semabo29).</sub>
+</div>
